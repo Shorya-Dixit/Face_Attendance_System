@@ -1,0 +1,6 @@
+cmake
+dlib
+face_recognition
+cvzone
+cv2
+firebase_admin
